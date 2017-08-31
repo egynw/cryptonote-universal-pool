@@ -1,6 +1,6 @@
 {
-    "coin": "ducknote",
-    "symbol": "XDN",
+    "coin": "ultranote",
+    "symbol": "XUN",
     "coinUnits": 100000000,
     "coinDifficultyTarget": 240,
 
